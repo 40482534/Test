@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Output</title>
+    <link rel="stylesheet" href="output.css" />
+</head>
+
+<body>
+    
+
+    <ul class="navbar" id="navbar">
+        <li><a href='index.html'>Home</a></li>
+        <li><a href='history.html'>History</a></li>
+        <li><a href='readings.html'>Readings</a></li>
+        <li><a href='meanings.html'>Meanings</a></li>
+    </ul>
+
+    <div class="container">
+        <img class="banner" src="banner.jpg" alt="Banner image containing tarot cards" />
+        <h1 class="header">Tarot Card Readings</h1>
+    </div>
+
+    <div id="containers" class="containers">
+        <div id="cardOutput"></div>
+
+        <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content" id="imgModal" />
+            <div id="caption"></div>
+        </div>
+        
+
+        <div id="output">
+            <div class="flip-box">
+                <div class="flip-box-inner" id="flip-inner">
+                    <div class="flip-box-front">
+                        <img src="./cardImages/cardBack.jpg" width="200" />
+                    </div>
+                    <div class="flip-box-back" id="flip-back">
+
+                    </div>
+                </div>
+            </div>
+            <div id="mainOutput" class="mainOutput"></div>
+            <h3>Love</h3>
+            <div id="love" class="love"></div>
+            <h3>Career</h3>
+            <div id="career" class="career"></div>
+        </div>
+
+        <div class="navigation">
+            <a href="Que_1.html"id="restartBtn">Restart</a>
+        </div>
+    </div>
+
+    <script src="output.js"></script>
+    <footer>
+        <p>Author: Carrie Mitchelson</p>
+    </footer>
+</body>
+</html>

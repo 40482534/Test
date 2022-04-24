@@ -1,0 +1,276 @@
+{
+	"questions": [
+		{
+			"id": 0,
+			"question": "What is your Zodiac sign?",
+			"answer": [
+				{
+					"text": "Aries",
+					"card": [ "TE" ]
+				},
+				{
+					"text": "Taurus",
+					"card": [ "TH" ]
+				},
+				{
+					"text": "Gemini",
+					"card": [ "TL" ]
+				},
+				{
+					"text": "Cancer",
+					"card": [ "TC" ]
+				},
+				{
+					"text": "Leo",
+					"card": [ "S" ]
+				},
+				{
+					"text": "Virgo",
+					"card": [ "H" ]
+				},
+				{
+					"text": "Libra",
+					"card": [ "J" ]
+				},
+				{
+					"text": "Scorpio",
+					"card": [ "D" ]
+				},
+				{
+					"text": "Sagittarius",
+					"card": [ "T" ]
+				},
+				{
+					"text": "Capricorn",
+					"card": [ "TD" ]
+				},
+				{
+					"text": "Aquarius",
+					"card": [ "TS" ]
+				},
+				{
+					"text": "Pisces",
+					"card": [ "TM" ]
+				}
+			]
+		},
+		{
+			"id": 1,
+			"question": "What is your favourite season?",
+			"answer": [
+				{
+					"text": "Spring",
+					"card": [ "TD", "TL" ]
+				},
+				{
+					"text": "Summer",
+					"card": [ "that " ]
+				},
+				{
+					"text": "Autumn",
+					"card": "next"
+				},
+				{
+					"text": "Winter",
+					"card": "back"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"question": "What is your biggest fear?",
+			"answer": [
+				{
+					"text": "Losing someone important to you",
+					"card": "this"
+				},
+				{
+					"text": "Heights",
+					"card": "that "
+				},
+				{
+					"text": "Failure",
+					"card": "next"
+				},
+				{
+					"text": "Change",
+					"card": "back"
+				},
+				{
+					"text": "Not being needed",
+					"card": "back"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"question": "Who do you turn to for advice?",
+			"answer": [
+				{
+					"text": "Friends",
+					"card": "this"
+				},
+				{
+					"text": "Family",
+					"card": "that "
+				},
+				{
+					"text": "Partner",
+					"card": "next"
+				},
+				{
+					"text": "Mentor",
+					"card": "back"
+				},
+				{
+					"text": "Myself",
+					"card": "back"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"question": "What point of the day do you get the most energy?",
+			"answer": [
+				{
+					"text": "Morning",
+					"card": "this"
+				},
+				{
+					"text": "Afternoon",
+					"card": "that "
+				},
+				{
+					"text": "Evening",
+					"card": "next"
+				},
+				{
+					"text": "Night",
+					"card": "back"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"question": "What colour resinates with you the most?",
+			"answer": [
+				{
+					"text": "needs",
+					"card": "this"
+				},
+				{
+					"text": "to",
+					"card": "that "
+				},
+				{
+					"text": "be",
+					"card": "next"
+				},
+				{
+					"text": "changed",
+					"card": "back"
+				},
+				{
+					"text": "Myself",
+					"card": "back"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"question": "What cheers you up on a bad day?",
+			"answer": [
+				{
+					"text": "Eating",
+					"card": "this"
+				},
+				{
+					"text": "Dancing",
+					"card": "that "
+				},
+				{
+					"text": "Writing about your feelings",
+					"card": "next"
+				},
+				{
+					"text": "Spending time with others",
+					"card": "back"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"question": "How would peaople describe you?",
+			"answer": [
+				{
+					"text": "Ambititous",
+					"card": "this"
+				},
+				{
+					"text": "Thoughtful",
+					"card": "that "
+				},
+				{
+					"text": "Practical",
+					"card": "next"
+				},
+				{
+					"text": "Caring",
+					"card": "back"
+				}
+			]
+		},
+		{
+			"id": 8,
+			"question": "What do you want out of life?",
+			"answer": [
+				{
+					"text": "Love",
+					"card": "this"
+				},
+				{
+					"text": "Growth",
+					"card": "that "
+				},
+				{
+					"text": "Happiness",
+					"card": "next"
+				},
+				{
+					"text": "Knowledge",
+					"card": "back"
+				},
+				{
+					"text": "Change",
+					"card": "back"
+				}
+			]
+		},
+		{
+			"id": 9,
+			"question": "How o you feel at the moment?",
+			"answer": [
+				{
+					"text": "Content",
+					"card": "this"
+				},
+				{
+					"text": "Excited",
+					"card": "that "
+				},
+				{
+					"text": "Disappointed",
+					"card": "next"
+				},
+				{
+					"text": "changed",
+					"card": "back"
+				},
+				{
+					"text": "Myself",
+					"card": "back"
+				}
+			]
+		}
+	]
+}
